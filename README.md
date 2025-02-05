@@ -1,6 +1,11 @@
 # 🚀 Codepolitan Courses  
+## 📜 Javascript DOM
+**Exercises**
+
+📌 **Project 1**: [🐉 500 Pokemon Image](https://snowyfor.github.io/codepolitan/6javascript-dom/pokemon/)  
+source code: [click here](https://github.com/snowyfor/codepolitan/tree/main/6javascript-dom/pokemon/)
 ## ⚙️ Ajax API  
-**Demo Project**
+**Exercises** 
 
 📌 **Project 1**: [😂 Dad Joke Generator](https://snowyfor.github.io/codepolitan/8ajax-api/3axios/dadjoke-generator/)  
 source code: [click here](https://github.com/snowyfor/codepolitan/tree/main/8ajax-api/3axios/dadjoke-generator)
